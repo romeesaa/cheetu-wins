@@ -10,3 +10,8 @@ making this game so my cat can win against his long time arch nemesis -- a rando
 -now my character is stuck and i dont know what to do. will try to make my character move i guess.
 -nvm i got rid of th bacground will figure that out later-
 
+
+14th september 2026 :
+remade the tileset and added the enemy uhm
+<img width="560" height="301" alt="Screenshot 2026-09-14 at 1 53 11 AM" src="https://github.com/user-attachments/assets/b1d2f437-b971-4c8c-aea1-eb18f985af88" />
+so i guess i did smth wrong huh because why is the enemy upside DOWN LMAOOOOO I NEED TO FIGURE HOW TO MAKE IT CORRECTO BEFORE I GO TO ZZZZ
