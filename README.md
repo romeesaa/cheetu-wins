@@ -19,3 +19,6 @@ so i guess i did smth wrong huh because why is the enemy upside DOWN LMAOOOOO I 
 updated fixed the thingy but now my characters dont move
 
 15th september 2026 : i have absolutely no idea how to make the enemy work ugh its so confusing and taking sm time. my game isnt even that good
+
+Uploading Screen Recording 2026-09-15 at 12.47.10 AM.mov…
+
