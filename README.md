@@ -17,3 +17,5 @@ remade the tileset and added the enemy uhm
 so i guess i did smth wrong huh because why is the enemy upside DOWN LMAOOOOO I NEED TO FIGURE HOW TO MAKE IT CORRECTO BEFORE I GO TO ZZZZ
 
 updated fixed the thingy but now my characters dont move
+
+15th september 2026 : i have absolutely no idea how to make the enemy work ugh its so confusing and taking sm time. my game isnt even that good
